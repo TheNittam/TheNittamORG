@@ -17,7 +17,8 @@ else
   echo "Skipping permission fixes (volume is read-only or not modifiable)."
 fi
 
-# Install WordPress
+# Install WordPress | Random Dummy Data
+# You may remove or comment out --url if you are using Apple Silicon Chip
 echo "Installing WordPress..."
 wp core install \
   --title="TheNittam ORG" \
