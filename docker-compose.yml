@@ -10,7 +10,7 @@ services:
       - "wp:/var/www/html:rw"
 
   mysql:
-    platform: linux/amd64
+  #  platform: linux/amd64 # Uncomment this line if you are using non Apple Silicon Environment
     image: "mysql:5.7"
     environment:
       MYSQL_ROOT_PASSWORD: password
