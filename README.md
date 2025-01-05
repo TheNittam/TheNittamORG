@@ -1,7 +1,9 @@
 **DO NOT EXPOSE THIS TO INTERNET!**
+
 This is a simulated lab environment for Web Security students at Softwarica College of It and eCommerce. Any installations or actions taken within this environment are at your own risk. In the event of a security breach or compromise, you will be personally responsible for the consequences.
 
 ## Prerequisites
+
 Docker Installed
 
 ## Installation
